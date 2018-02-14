@@ -1,57 +1,74 @@
-<footer class="bg-black ph3 pv4 white">
+{{ if .IsPage }}
+{{ if .Prev | or .Next }}
+<nav class="pagination" aria-label="Footer">
+  <div class="previous">
+  {{ if .Prev }}
+      <a href="{{ .Prev.Permalink }}" title="{{ .Prev.Title }}">
+        <span class="direction">
+          Previous
+        </span>
+        <div class="page">
+          <div class="button button-previous" role="button" aria-label="Previous">
+            <i class="icon icon-back"></i>
+          </div>
+          <div class="stretch">
+            <div class="title">
+              {{ .Prev.Title }}
+            </div>
+          </div>
+        </div>
+      </a>
+  {{ end }}
+  </div>
 
-	<div class="mw7 center pt3">
+  <div class="next">
+  {{ if .Next }}
+      <a href="{{ .Next.Permalink }}" title="{{ .Next.Title }}">
+        <span class="direction">
+          Next
+        </span>
+        <div class="page">
+          <div class="stretch">
+            <div class="title">
+              {{ .Next.Title }}
+            </div>
+          </div>
+          <div class="button button-next" role="button" aria-label="Next">
+            <i class="icon icon-forward"></i>
+          </div>
+        </div>
+      </a>
+  {{ end }}
+  </div>
+</nav>
+{{ end }}
+{{ end }}
 
-		<div class="measure-narrow center mb4">
+{{ if .IsHome }}
+{{ if gt (len .Site.Pages) 2 }}
+<nav class="pagination" aria-label="Footer">
+  <div class="previous">
+  </div>
 
-			<img src="/img/logo.svg" alt="Kaldi logo" class="db w4 center mb4 br0">
-			<p class="f3 lh-title light-gray b tc mb2">Newsletter subscribe</p>
-			<p>Get awesome news from us in your inbox every two weeks. Be the first to learn about new products.</p>
-
-			{{ partial "newsletter-form" . }}
-
-		</div>
-
-		<div class="flex-ns justify-between">
-
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">Kaldi</h3>
-				<ul class="mb3">
-					<li><a href="/" class="link">Home</a></li>
-					<li><a href="/products" class="link">Our products</a></li>
-					<li><a href="/values" class="link">About</a></li>
-					<li><a href="/post" class="link">Blog</a></li>
-					<li><a href="/contact" class="link">Contact</a></li>
-				</ul>
-			</div>
-
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">Find out more</h3>
-				<ul class="mb3">
-					<li><a href="/post/jamaica-blue/" class="link">Latest offers</a></li>
-					<li><a href="/contact" class="link">Schedule and appointment</a></li>
-				</ul>
-			</div>
-
-			<div>
-				<h3 class="f4 b lh-title mb2 primary">Social media</h3>
-				<ul class="mhn2">
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo") }}
-				</ul>
-			</div>
-
-		</div>
-	</div>
-
-</footer>
-
-{{ partial "svg" . }}
-
-<script src="/app.js"></script>
-
-</body>
-
-</html>
+  {{ $title := (index (.Site.Pages.ByDate) 1).Title  }}
+  {{ $permalink := (index (.Site.Pages.ByDate) 1).Permalink }}
+  <div class="next">
+      <a href="{{ $permalink }}" title="{{ $title }}">
+        <span class="direction">
+          Next
+        </span>
+        <div class="page">
+          <div class="stretch">
+            <div class="title">
+              {{ $title }}
+            </div>
+          </div>
+          <div class="button button-next" role="button" aria-label="Next">
+            <i class="icon icon-forward"></i>
+          </div>
+        </div>
+      </a>
+  </div>
+</nav>
+{{ end }}
+{{ end }}

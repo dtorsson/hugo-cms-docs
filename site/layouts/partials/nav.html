@@ -1,19 +1,19 @@
-<nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
+{{ $currentNode := . }}
 
-	<!-- Logo -->
-	<a href="/" class="pa3 db mr4 h-100 w3 flex-none">
-		<img src="/img/logo.svg" alt="Kaldi logo" class="br0 db mb0 w-100"/>
-	</a>
+{{ range .Site.Menus.main.ByWeight }}
 
-	<!-- Primary Nav -->
-	<ul class="flex b grey-3">
-		<li><a href="/products" class="pa3 no-underline db">Products</a></li>
-
-		<li><a href="/values" class="pa3 no-underline db">Values</a></li>
-
-		<li><a href="/post" class="pa3 no-underline db">Blog</a></li>
-
-		<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
-	</ul>
-
-</nav>
+{{ $.Scratch.Set "currentMenuEntry" . }}
+<li>
+  {{ if .HasChildren }}
+    <span class="section">{{ .Name | title }}</span>
+    <ul>
+      {{ range .Children }}
+        {{ $.Scratch.Set "currentMenuEntry" . }}
+        {{ partial "nav_link" $currentNode }}
+      {{ end }}
+    </ul>
+  {{ else }}
+    {{ partial "nav_link" $currentNode }}
+  {{ end }}
+</li>
+{{ end }}
