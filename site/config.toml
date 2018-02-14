@@ -31,17 +31,17 @@ googleAnalytics = ""
 	highlight_css  = ""
 
 	[params.palette]
-    	primary = "red"
-    	accent  = "teal"
+    	primary = "blue"
+    	accent  = "light-blue"
 
     [params.font]
-    	text = "Ubuntu"
-    	code = "Ubuntu Mono"
+      text = "Roboto"
+      code = "Roboto Mono"
 
 
 [social]
-	twitter = ""
-	github  = "digitalcraftsman"
+	twitter = "forzafootball"
+	github  = ""
 	email   = "hello@email.com"
 
 
