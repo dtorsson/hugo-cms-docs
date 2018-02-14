@@ -16,12 +16,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "getting-started" # Used in routes, ie.: /admin/collections/:slug/edit
-      label: "Getting started" # Used in the UI, ie.: "New Post"
-      folder: "site/content/getting-started" # The path to the folder where the documents are stored
-      create: true # Allow users to create new documents in this collection
-      fields: # The fields each document in this collection have
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Content", name: "content", widget: "markdown"}
+    label: "Getting started" # Used in the UI, ie.: "New Post"
+    folder: "site/content/getting-started" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Content", name: "content", widget: "markdown"}
   - name: "pages"
     label: "Pages"
     files:
