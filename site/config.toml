@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Homepage"
+title = "Forza Football Brand Style Guide"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -9,9 +9,9 @@ googleAnalytics = ""
 
 [params]
 	# General information
-	author = "Digitalcraftsman"
-	description = "A material design theme for documentations."
-	copyright = "Released under the MIT license"
+	author = "Forza Football"
+	description = "Branding styling guidelines."
+	copyright = "All rights reserved"
 
 	# Repository
 	provider = "GitHub"
