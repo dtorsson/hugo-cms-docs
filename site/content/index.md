@@ -1,7 +1,6 @@
 ---
-date: 2016-03-08T21:07:13+01:00
 title: Home
-type: index
+date: 2016-03-08T20:07:13.000Z
 weight: 10
 ---
 
@@ -11,7 +10,7 @@ Material is a theme for [Hugo](https://gohugo.io), a fast and flexible static si
 guidelines, fully responsive, optimized for touch and pointer devices as well
 as all sorts of screen sizes.
 
-![Material Screenshot](/images/screen.png)
+![Material Screenshot](/img/mata3344.jpg)
 
 Material is very lightweight – it is built from scratch using Javascript and
 CSS that weighs less than 30kb (minified, gzipped and excluding Google Fonts
