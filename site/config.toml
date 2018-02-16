@@ -42,29 +42,13 @@ googleAnalytics = ""
 [social]
 	twitter = "forzafootball"
 	github  = ""
-	email   = "hello@email.com"
+	email   = "hello@forzafootball.com"
 
 
 [[menu.main]]
 	name   = "Material"
 	url    = "/"
-	weight = 0
-
-[[menu.main]]
-	name   = "Getting started"
-	url    = "getting-started/"
 	weight = 10
-
-[[menu.main]]
-	name   = "Identity"
-	url    = "identity/"
-	weight = 20
-
-[[menu.main]]
-	name   = "Fonts & Colors"
-	url    = "fonts-colors/"
-	weight = 30
-
 
 [blackfriday]
 	smartypants	= true
