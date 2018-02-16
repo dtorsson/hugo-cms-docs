@@ -1,7 +1,8 @@
 ---
 date: 2016-03-09T19:56:50+01:00
 title: Identity
-weight: 20
+type: page
+weight: 10
 ---
 
 ## Identity
