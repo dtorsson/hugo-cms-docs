@@ -2,6 +2,7 @@
 title: Home
 date: 2016-03-08T20:07:13.000Z
 weight: 10
+type: index
 ---
 
 ## Beautiful documentation
