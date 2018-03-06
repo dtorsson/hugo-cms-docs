@@ -1,7 +1,7 @@
 ---
-date: 2016-03-09T19:56:50+01:00
 title: Identity
 type: page
+date: 2016-03-09T18:56:50.000Z
 weight: 30
 ---
 
@@ -17,7 +17,7 @@ Visitors of your website will find the final document under `www.example.com/<se
 
 Since it's possible to have multiple content files in the same section I recommend to create at least one `index.md` file per section. This ensures that users will find an index page under `www.example.com/<section-name>`.
 
-## Homepage
+## Kalle Anka
 
 To add content to the homepage you need to add a small indicator to the frontmatter of the content file:
 
