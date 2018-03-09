@@ -1,29 +1,14 @@
 ---
-date: 2016-03-09T20:10:46+01:00
-title: Fonts & Colors
-weight: 40
+title: Tone of voice
+type: page
+date: 2016-03-09T19:10:46.000Z
+weight: '2'
 ---
 
-## Fonts & Colors
+## How to write
 
-Copyright (c) 2016 Digitalcraftsman <digitalcraftsman@protonmail.com><br>
-Copyright (c) 2016 Martin Donath <martin.donath@squidfunk.com>
+Bla bla bla
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to
-deal in the Software without restriction, including without limitation the
-rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-sell copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Examples
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-IN THE SOFTWARE.
-
+Such examples, much awesome
