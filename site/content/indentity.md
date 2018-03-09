@@ -2,7 +2,7 @@
 title: Brand core
 type: page
 date: 2016-03-09T18:56:50.000Z
-weight: 30
+weight: '1'
 ---
 ## Brand Core
 
