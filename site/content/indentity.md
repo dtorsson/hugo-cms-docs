@@ -1,5 +1,5 @@
 ---
-title: Brand core
+title: Brand personality
 type: page
 date: 2016-03-09T18:56:50.000Z
 weight: '1'
