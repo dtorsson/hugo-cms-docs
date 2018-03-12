@@ -11,11 +11,11 @@ These are some guidelines for the Forza tone-of-voice. They can inspire us to id
 
 Why is tone of voice important? It’s an expression of the people behind the brand. Consumers want to feel a bond with the people they are buying from. It’s not just what a brand does, but who it is and why they do it that makes it a brand.
 
-Forza Football brand promises
+## Forza Football brand promises
 Forza Football promises to deliver the fastest most accurate football data, and to work for a more democratised football world where the fans have more power than they do today. 
 The brand promises directly affect our tone of voice when we create communication.
 
-Who/what is Forza Football?
+## Who/what is Forza Football?
 Forza Football is fun, cool, playful, smart, happy, flexible and trustworthy.
 
 FUN: We are fun to be around (and funny!) and want to convey that feeling to the users. Humor is appealing and laughter contagious. So we have a smile on our faces when communicating about non-serious things.
@@ -55,7 +55,7 @@ Overuse emoijs or smilies!
 
 Write numbers up to 12 with numbers, use letters.
 
-Summary
+## Summary
 Our brand personality is fun, cool, playful, smart, happy, flexible and trustworthy. This always needs to be conveyed in everything that we communicate and do.
 
 
