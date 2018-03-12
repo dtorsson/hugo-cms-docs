@@ -18,23 +18,24 @@ The brand promises directly affect our tone of voice when we create communicatio
 ## Who/what is Forza Football?
 Forza Football is fun, cool, playful, smart, happy, flexible and trustworthy.
 
-FUN: We are fun to be around (and funny!) and want to convey that feeling to the users. Humor is appealing and laughter contagious. So we have a smile on our faces when communicating about non-serious things.
+**FUN:** We are fun to be around (and funny!) and want to convey that feeling to the users. Humor is appealing and laughter contagious. So we have a smile on our faces when communicating about non-serious things.
 
-COOL: We are the older brother or sister or friend that you look up to because they manage to be inspiring and stylish and natural effortlessly. We are cool but in a non-pretentious way though. Cool AND warm rather. Down-to-earth-cool!
+**COOL:** We are the older brother or sister or friend that you look up to because they manage to be inspiring and stylish and natural effortlessly. We are cool but in a non-pretentious way though. Cool AND warm rather. Down-to-earth-cool!
 
-PLAYFUL/CHILDISH: We have a fantastic office, great colleagues – and we work with football. What’s not to like about that?! Let’s never grow up and be boring. Let’s play and be enthusiastic because, let’s face it, we are so freaking fortunate.
+**PLAYFUL/CHILDISH:** We have a fantastic office, great colleagues – and we work with football. What’s not to like about that?! Let’s never grow up and be boring. Let’s play and be enthusiastic because, let’s face it, we are so freaking fortunate.
 
-SMART: Our apps are smart and fast. The users know and expect that. So the Forza Football people must also be smart, right? But let’s not scream that out to the world, because that would not be smart.
+**SMART:** Our apps are smart and fast. The users know and expect that. So the Forza Football people must also be smart, right? But let’s not scream that out to the world, because that would not be smart.
 
-HAPPY: We are happy, proud and passionate when we interact at work. Because happiness and positive energy are contagious. We are open, warm and welcoming towards others since that kind of atmosphere stimulate new ideas and make Forza even better.
+**HAPPY:** We are happy, proud and passionate when we interact at work. Because happiness and positive energy are contagious. We are open, warm and welcoming towards others since that kind of atmosphere stimulate new ideas and make Forza even better.
 
-FLEXIBLE: As long as you work your hours, nobody will tell you what to do where. Forza is a flexible workplace with a flat organisation. That makes the company stand out from the rest.
+**FLEXIBLE:** As long as you work your hours, nobody will tell you what to do where. Forza is a flexible workplace with a flat organisation. That makes the company stand out from the rest.
 
-TRUSTWORTHY: It is very important that Forza comes across as trustworthy. Our users should feel that they can rely on our data to be correct and that we will deliver it fast. Our polls must be accurate and reliable to transmit extra credibility and a competitive advantage to the company and our brand.
+**TRUSTWORTHY:** It is very important that Forza comes across as trustworthy. Our users should feel that they can rely on our data to be correct and that we will deliver it fast. Our polls must be accurate and reliable to transmit extra credibility and a competitive advantage to the company and our brand.
 
 The way we communicate should be perceived as: witty, cool, non-corporate, trustworthy, warm and modern.
 
-DO:
+**DO:**
+
 Be fun, cool and warm. Use a friendly, positive everyday tone, and be upbeat and witty when you write. Be open and welcoming, and always inclusive and responsive.  Be humorous when appropriate.
 
 Be serious and apologetic when communicating about incidents.
@@ -50,7 +51,8 @@ Double-check the grammar and spelling before publishing anything!
 
 Use British English, not American.
 
-DON’T:
+**DON’T:**
+
 Overuse emoijs or smilies!
 
 Write numbers up to 12 with numbers, use letters.
@@ -60,7 +62,7 @@ Our brand personality is fun, cool, playful, smart, happy, flexible and trustwor
 
 
 ## Examples
-
+**1)**
 Why are there ads? 
 
 :wave: 
@@ -81,17 +83,16 @@ Loads of love,
 
 The Forza Team
 
-2)
-
+**2)**
 Some of our users experience issues with the calendar in the Forza Football app currently. We've fixed this bug and sent an update to Apple on the Dec 31. They are currently reviewing it and should release it soon to all of our users. We are terribly sorry for this bug!
 
-3)
+**3)**
 Hi guys! We are currently investigating why matches are not updating properly and ending. As soon as we have more information we will let you know. Sorry for any inconvenience caused!
 
-4)
+**4)**
 Our data supplier is experiencing technical issues right now. Their technicians are working on it. You will receive updates as soon as the issues are solved. We are terribly sorry about this!
 
-5)
+**5)**
 
 App News text:
 
@@ -101,7 +102,7 @@ We are excited to introduce some of you to a new version of Forza Football. Sign
 
 Please sign up here and you will receive an email invitation from Apple’s TestFlight app within a day.
 
-5)
+**5)**
 
 Description text App Store/Google Play
 
