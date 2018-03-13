@@ -91,36 +91,3 @@ Hi guys! We are currently investigating why matches are not updating properly an
 
 **4)**
 Our data supplier is experiencing technical issues right now. Their technicians are working on it. You will receive updates as soon as the issues are solved. We are terribly sorry about this!
-
-**5)**
-
-App News text:
-
-Try out the latest and greatest Forza Football!
-
-We are excited to introduce some of you to a new version of Forza Football. Sign up to get exclusive access! But hurry up, there are only limited spots available to this lovely place of football worship.
-
-Please sign up here and you will receive an email invitation from Apple’s TestFlight app within a day.
-
-**5)**
-
-Description text App Store/Google Play
-
-With Forza Football you easily keep up to date your favourite team(s) and follow the live actions in matches around the world. The app brings you scores, push notifications and video highlights for more than X leagues and cups. 
-As if that wasn’t enough Forza Football also aims to change the face of the sport by collecting the fans’ opinions via surveys and then spreading the results worldwide. A much needed fan opinion platform at your service!
-
-Key features include:
-
-Live scores:
-•    Set alerts for your favourite teams and pin matches you’re interested in
-•    Receive detailed customised push notifications per team or per match – for goals and cards 
-•    Pre-match line-ups with formations and player photos
-•    Very quick, accurate updates compared to other football apps
-
-Opinion polls:
-•    Share your opinions about your team and see how they match up with other fans
-•    Get your voice heard around the world
-•    Be part of a collective movement to change the way fans are listened to. Let’s democratise football together!
-
-We’re really proud of our apps and hope you’ll love them as much as we do. We promise (scout’s honor) that Forza Football will make your fandom simpler, more fun and even more meaningful. If you have any feedback, please contact us.
-
