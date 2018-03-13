@@ -8,7 +8,7 @@ Oooh look at this fancy page with all its fancy content
 
 ## Forza Football images
 
-The images we work with focus on the fans and where the fans are, not on the big players. 
+The images we choose focus on the fans and where the fans are. 
 
 
 
