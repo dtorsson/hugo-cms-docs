@@ -8,23 +8,23 @@ weight: '3'
 
 Forza Football doesn’t have one logotype only. We are using several patterns and colors to represent football as it looks today. This is a way of showing that Forza Football isn’t only a company, we represent a whole world.  
 
-**Our logotype system contains 27 logotypes in 3 different categories, with 9 of each cateogry. Read about the categories below. **
+**Our logotype system contains 27 logotypes in 3 different categories, with 9 of each cateogry. Read about the categories below.**
 
 **1 Primary/standard logo**  
 
 Neon green stripe (2-color). This will be used everywhere. And when we can't use the gif, we will always use this one. On social media, in print and as a starter of every gif we have. 
 
-![](/images/2coloursneongreen03.jpg)
+![](/img/2coloursneongreen03.jpg)
 
-** 2-color logotypes **
+**2-color logotypes**
 
 This is the logotype-system we use as often as we can; in our apps (if possible), on our website, in presentations etc. Basically, on all units as much as it is possible, we should use the 2-color system. 
 
-**3-color logotype system: **
+**3-color logotype system:**
 
 These are our so-called "bonus logotypes" or "luxury logotypes. On special occasions, we will use these. Maybe when showing something for our brand or when we have released something big, when making global polls etc. 
 
-** Graphics logotype system (with and without the text Forza Football):**
+**Graphics logotype system (with and without the text Forza Football):**
 
 These will be used as a support to the brand. We do not use this digitally. 
 
