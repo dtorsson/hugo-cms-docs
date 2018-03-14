@@ -6,6 +6,8 @@ weight: '1'
 ---
 ![]()
 
+!\[null]()
+
 On this page you will find everything related to our inner self. Who are we? What are we trying to achieve? What makes us different?
 
 ## Forza Football values/manifesto
