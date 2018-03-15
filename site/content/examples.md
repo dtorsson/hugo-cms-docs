@@ -14,15 +14,21 @@ Forza Football doesn’t have one logotype only. We are using several patterns a
 
 Neon green stripe (2-color). This will be used everywhere. And when we can't use the gif, we will always use this one. On social media, in print and as a starter of every gif we have. 
 
-![](/img/2coloursneongreen03.jpg)
+![null](/img/2coloursneongreen03.jpg)
 
 **2-color logotypes**
 
 This is the logotype-system we use as often as we can; in our apps (if possible), on our website, in presentations etc. Basically, on all units as much as it is possible, we should use the 2-color system. 
 
+![](/images/2colours_small.gif)
+
 **3-color logotype system:**
 
 These are our so-called "bonus logotypes" or "luxury logotypes. On special occasions, we will use these. Maybe when showing something for our brand or when we have released something big, when making global polls etc. 
+
+
+
+![](/images/3colours_small.gif)
 
 **Graphics logotype system (with and without the text Forza Football):**
 
@@ -37,6 +43,10 @@ Graphics (without text), with the text Forza Football under the graphics:
 merch purpose only
 This is to be used on merch sold to the outside world or giveaways. This will make it feel less like a logotype. Only employees will wear our “regular” logo on merch. 
 
+
+
+![](/images/graphics_small.gif)
+
 ## Placement
 
 We need to adapt the placement to each unit. On presentations it should always be places in the top left corner.
@@ -44,6 +54,8 @@ We need to adapt the placement to each unit. On presentations it should always b
 ## Colors
 
 We have 16 different colors to play with. 
+
+![](/images/skärmavbild 2018-02-14 kl. 09.24.37.png)
 
 ## Font
 
