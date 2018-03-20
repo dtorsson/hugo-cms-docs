@@ -14,6 +14,6 @@ Think face paints, tyfos, flags, fans in action, fans screaming, emotional fans,
 
 
 
-![](/images/skärmavbild 2018-03-19 kl. 10.54.24.png)
+![](/img/skärmavbild 2018-03-19 kl. 10.54.24.png)
 
 !\[null]()
