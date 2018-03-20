@@ -20,7 +20,7 @@ Neon green stripe (2-color). This will be used everywhere. And when we can't use
 
 This is the logotype-system we use as often as we can; in our apps (if possible), on our website, in presentations etc. Basically, on all units as much as it is possible, we should use the 2-color system. 
 
-![](/images/2colours_small.gif)
+![](/img/2colours_small.gif)
 
 **3-color logotype system:**
 
@@ -28,7 +28,7 @@ These are our so-called "bonus logotypes" or "luxury logotypes. On special occas
 
 
 
-![](/images/3colours_small.gif)
+![](/img/3colours_small.gif)
 
 **Graphics logotype system (with and without the text Forza Football):**
 
@@ -45,7 +45,7 @@ This is to be used on merch sold to the outside world or giveaways. This will ma
 
 
 
-![](/images/graphics_small.gif)
+![](/img/graphics_small.gif)
 
 ## Placement
 
@@ -55,7 +55,7 @@ We need to adapt the placement to each unit. On presentations it should always b
 
 We have 16 different colors to play with. 
 
-![](/images/skärmavbild 2018-02-14 kl. 09.24.37.png)
+![](/img/skärmavbild 2018-02-14 kl. 09.24.37.png)
 
 ## Font
 
