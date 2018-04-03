@@ -12,18 +12,18 @@ Think face paints, tyfos, flags, fans in action, fans screaming, emotional fans,
 
 ![ ](/img/skärmavbild 2018-03-19 kl. 10.54.38.png)
 
-!\[ ](/img/skärmavbild 2018-03-19 kl. 10.54.02.png)
+![ ](/img/skärmavbild 2018-03-19 kl. 10.54.02.png)
 
-!\[ ](/img/skärmavbild 2018-03-19 kl. 10.54.10.png)
+![ ](/img/skärmavbild 2018-03-19 kl. 10.54.10.png)
 
-!\[ ](/img/skärmavbild 2018-03-19 kl. 10.53.54.png)
+![ ](/img/skärmavbild 2018-03-19 kl. 10.53.54.png)
 
-!\[ ](/img/skärmavbild 2018-03-19 kl. 10.54.46.png)
+![ ](/img/skärmavbild 2018-03-19 kl. 10.54.46.png)
 
-!\[ ](/img/skärmavbild 2018-03-19 kl. 10.56.53.png)
+![ ](/img/skärmavbild 2018-03-19 kl. 10.56.53.png)
 
-!\[ ](/img/skärmavbild 2018-03-19 kl. 10.55.02.png)
+![ ](/img/skärmavbild 2018-03-19 kl. 10.55.02.png)
 
-!\[ ](/img/skärmavbild 2018-03-19 kl. 10.54.17.png)
+![ ](/img/skärmavbild 2018-03-19 kl. 10.54.17.png)
 
-!\[ ](/img/skärmavbild 2018-03-19 kl. 10.54.24.png)
+![ ](/img/skärmavbild 2018-03-19 kl. 10.54.24.png)
