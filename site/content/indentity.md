@@ -19,8 +19,6 @@ We’re on a mission to make the world of football a better place. And to make f
 
 ## Brand positioning
 
-_(describes how we are different from our competitors)_
-
 We deliver score data faster than our competitors in a smart way, at the same time as we work towards makeing the world of football a better place.
 
 ## Brand promise
