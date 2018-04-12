@@ -4,37 +4,61 @@ type: page
 date: 2016-03-09T19:10:46.000Z
 weight: '2'
 ---
-
 ## How to write
 
-These are some guidelines for the Forza tone-of-voice. They can inspire us to identify different situations and create suitable messages for different occasions and communication.
+These are some guidelines for the Forza tone of voice. They can inspire us to identify different situations and create suitable messages for different occasions and communication.
 
 Why is tone of voice important? It’s an expression of the people behind the brand. Consumers want to feel a bond with the people they are buying from. It’s not just what a brand does, but who it is and why they do it that makes it a brand.
 
 ## Forza Football brand promises
+
 Forza Football promises to deliver the fastest most accurate football data, and to work for a more democratised football world where the fans have more power than they do today. 
 The brand promises directly affect our tone of voice when we create communication.
 
 ## Who/what is Forza Football?
+
 Forza Football is fun, cool, playful, smart, happy, flexible and trustworthy.
 
-**FUN:** We are fun to be around (and funny!) and want to convey that feeling to the users. Humor is appealing and laughter contagious. So we have a smile on our faces when communicating about non-serious things.
+**Fun**
 
-**COOL:** We are the older brother or sister or friend that you look up to because they manage to be inspiring and stylish and natural effortlessly. We are cool but in a non-pretentious way though. Cool AND warm rather. Down-to-earth-cool!
+We are fun to be around (and funny!) and want to convey that feeling to the users. Humor is appealing and laughter contagious. So we have a smile on our faces when communicating about non-serious things.
 
-**PLAYFUL/CHILDISH:** We have a fantastic office, great colleagues – and we work with football. What’s not to like about that?! Let’s never grow up and be boring. Let’s play and be enthusiastic because, let’s face it, we are so freaking fortunate.
+**Cool**
 
-**SMART:** Our apps are smart and fast. The users know and expect that. So the Forza Football people must also be smart, right? But let’s not scream that out to the world, because that would not be smart.
+We are the older brother or sister or friend that you look up to because they manage to be inspiring and stylish and natural effortlessly. We are cool but in a non-pretentious way though. Cool AND warm rather. Down-to-earth-cool!
 
-**HAPPY:** We are happy, proud and passionate when we interact at work. Because happiness and positive energy are contagious. We are open, warm and welcoming towards others since that kind of atmosphere stimulate new ideas and make Forza even better.
+**Playful/childish**
 
-**FLEXIBLE:** As long as you work your hours, nobody will tell you what to do where. Forza is a flexible workplace with a flat organisation. That makes the company stand out from the rest.
+We have a fantastic office, great colleagues – and we work with football. What’s not to like about that?! Let’s never grow up and be boring. Let’s play and be enthusiastic because, let’s face it, we are so freaking fortunate.
 
-**TRUSTWORTHY:** It is very important that Forza comes across as trustworthy. Our users should feel that they can rely on our data to be correct and that we will deliver it fast. Our polls must be accurate and reliable to transmit extra credibility and a competitive advantage to the company and our brand.
+**Smart**
 
-The way we communicate should be perceived as: witty, cool, non-corporate, trustworthy, warm and modern.
+Our apps are smart and fast. The users know and expect that. So the Forza Football people must also be smart, right? But let’s not scream that out to the world, because that would not be smart.
 
-**DO:**
+**Happy**
+
+We are happy, proud and passionate when we interact at work. Because happiness and positive energy are contagious. We are open, warm and welcoming towards others since that kind of atmosphere stimulate new ideas and make Forza even better.
+
+**Flexible**
+
+As long as you work your hours, nobody will tell you what to do where. Forza is a flexible workplace with a flat organisation. That makes the company stand out from the rest.
+
+**Trustworthy**
+
+It is very important that Forza comes across as trustworthy. Our users should feel that they can rely on our data to be correct and that we will deliver it fast. Our polls must be accurate and reliable to transmit extra credibility and a competitive advantage to the company and our brand.
+
+## The way we communicate should be perceived as
+
+* Witty
+* Cool 
+* Non-corporate
+* Trustworthy
+* Warm
+* Modern
+
+
+
+* **DO:**
 
 Be fun, cool and warm. Use a friendly, positive everyday tone, and be upbeat and witty when you write. Be open and welcoming, and always inclusive and responsive.  Be humorous when appropriate.
 
@@ -58,10 +82,11 @@ Overuse emoijs or smilies!
 Write numbers up to 12 with numbers, use letters.
 
 ## Summary
+
 Our brand personality is fun, cool, playful, smart, happy, flexible and trustworthy. This always needs to be conveyed in everything that we communicate and do.
 
-
 ## Examples
+
 **1)**
 Why are there ads? 
 
@@ -73,7 +98,6 @@ For a long time now, you’ve had the privilege of not seeing any advertisement 
 In your country and many more where we exist today, we have no ads and no income. It’s not a very sustainable way to keep growing (according to some business people that we work with). 
 
 Users in other countries have seen relevant ads from our friends at companies such as Nike, Adidas, EA Sports to name a few. This is something we want to scale to the entire world but that takes both time and work. 
-
 
 So, in order to keep up with our running costs (servers, more awesome colleagues, beer and ping pong balls), continuing building new features and cover even more football matches, we’re making some changes to introduce third party advertising, as a test.  
 
