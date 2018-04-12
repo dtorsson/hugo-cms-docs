@@ -19,8 +19,7 @@ The brand promises directly affect our tone of voice when we create communicatio
 
 Forza Football is fun, cool, playful, smart, happy, flexible and trustworthy.
 
-**Fun**
-
+### Fun
 We are fun to be around (and funny!) and want to convey that feeling to the users. Humor is appealing and laughter contagious. So we have a smile on our faces when communicating about non-serious things.
 
 **Cool**
