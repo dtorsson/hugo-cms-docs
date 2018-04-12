@@ -15,8 +15,6 @@ On this page you will find everything related to our inner self. Who are we? Wha
 
 ## Forza Football Mission
 
-Our mission is to make the world of football a better place. Football is for everyone. 
-
 We’re on a mission to make the world of football a better place. And to make football available for everyone
 
 ## Brand positioning
