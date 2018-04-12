@@ -1,12 +1,16 @@
 ---
-title: Brand core
+title: Brand overview
 type: page
 date: 2016-03-09T18:56:50.000Z
 weight: '1'
 ---
-![](/img/2coloursneongreen03.jpg)
+On this page you will find everything related to our inner self. Who are we? What are we trying to achieve? Where is that logo?
 
-On this page you will find everything related to our inner self. Who are we? What are we trying to achieve? What makes us different?
+## Brand assets
+
+* Download logo pack
+* Download font (New Rail)
+* Download keynote presentation
 
 ## Forza Football values/manifesto
 
