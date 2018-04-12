@@ -22,28 +22,22 @@ Forza Football is fun, cool, playful, smart, happy, flexible and trustworthy.
 ### Fun
 We are fun to be around (and funny!) and want to convey that feeling to the users. Humor is appealing and laughter contagious. So we have a smile on our faces when communicating about non-serious things.
 
-**Cool**
-
+### Cool
 We are the older brother or sister or friend that you look up to because they manage to be inspiring and stylish and natural effortlessly. We are cool but in a non-pretentious way though. Cool AND warm rather. Down-to-earth-cool!
 
-**Playful/childish**
-
+### Playful/childish
 We have a fantastic office, great colleagues – and we work with football. What’s not to like about that?! Let’s never grow up and be boring. Let’s play and be enthusiastic because, let’s face it, we are so freaking fortunate.
 
-**Smart**
-
+### Smart
 Our apps are smart and fast. The users know and expect that. So the Forza Football people must also be smart, right? But let’s not scream that out to the world, because that would not be smart.
 
-**Happy**
-
+### Happy
 We are happy, proud and passionate when we interact at work. Because happiness and positive energy are contagious. We are open, warm and welcoming towards others since that kind of atmosphere stimulate new ideas and make Forza even better.
 
-**Flexible**
+### Flexible
+As long as you work your hours, nobody will tell you what to do, or where. Forza is a flexible workplace with a flat organisation. That makes the company stand out from the rest.
 
-As long as you work your hours, nobody will tell you what to do where. Forza is a flexible workplace with a flat organisation. That makes the company stand out from the rest.
-
-**Trustworthy**
-
+### Trustworthy
 It is very important that Forza comes across as trustworthy. Our users should feel that they can rely on our data to be correct and that we will deliver it fast. Our polls must be accurate and reliable to transmit extra credibility and a competitive advantage to the company and our brand.
 
 ## The way we communicate should be perceived as
