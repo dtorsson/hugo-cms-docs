@@ -579,7 +579,13 @@ pre span{
   box-shadow:inset 0 -1px 0 #bbb
 }
 .article h1{
-  border-bottom:1px solid rgba(0,0,0,.12)
+  border-bottom:1px solid rgba(0,0,0,.12);
+  font-size: 24px;
+  line-height: 1.333334em;
+  padding: 20px 0 22px;
+  color: black;
+  font-weight: 700;
+  font-size: 36px;
 }
 .article a{
   border-bottom:1px dotted
