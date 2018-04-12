@@ -1,11 +1,28 @@
 ---
-title: Home
+title: Brand overview
 type: index
 date: 2016-03-08T20:07:13.000Z
 weight: 10
 ---
-## Forza Football brand guide
+On this page you will find everything related to our inner self. Who are we? What are we trying to achieve? Where is that logo?
 
+## Brand assets
 
+* Download logo pack
+* Download font (New Rail)
+* Download keynote presentation
 
-The purpose of this amazing brand book is to make it easier for you to work with our brand, to understand it and to remind yourself of what it stands for if you for any reason forget. On this platform you’ll find everything you need related to our brand. And yes, it will always be up to date,
+## Forza Football values/manifesto
+
+* Helpful
+* Empathy
+* Respect
+* Open-minded
+
+## Forza Football Mission
+
+We’re on a mission to make the world of football a better place. And to make football available for everyone
+
+## Brand positioning
+
+We deliver score data faster than our competitors in a smart way, at the same time as we work towards making the world of football a better place.
