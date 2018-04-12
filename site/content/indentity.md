@@ -4,21 +4,14 @@ type: page
 date: 2016-03-09T18:56:50.000Z
 weight: '1'
 ---
-![]()
-
-!\[null]()
-
 On this page you will find everything related to our inner self. Who are we? What are we trying to achieve? What makes us different?
 
 ## Forza Football values/manifesto
 
-Helpful
-
-Empathy
-
-Respect
-
-Open-minded
+* Helpful
+* Empathy
+* Respect
+* Open-minded
 
 ## Forza Football Mission
 
