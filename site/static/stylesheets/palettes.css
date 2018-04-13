@@ -154,7 +154,9 @@
   }
 }
 .palette-primary-blue .footer,.palette-primary-blue .header{
-  background:#00D400
+  box-shadow: none;
+  background: #38D430;
+  color: #fff;
 }
 .palette-primary-blue .drawer .toc a.current,.palette-primary-blue .drawer .toc a:focus,.palette-primary-blue .drawer .toc a:hover{
   color:#00D400
@@ -167,7 +169,10 @@
   background:linear-gradient(180deg,#fff 50%,#00D400 0)
 }
 .palette-primary-blue .article a,.palette-primary-blue .article code,.palette-primary-blue .article h1,.palette-primary-blue .article h2{
-  color:#00D400
+  color:#00D400;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.4em;
 }
 .palette-primary-blue .article .headerlink{
   color:rgba(0,0,0,.26)
