@@ -8,9 +8,9 @@ On this page you will find everything related to our inner self. Who are we? Wha
 
 ## Brand assets
 
-* Download logo pack
-* Download font (New Rail)
-* Download keynote presentation
+* [Download logo pack](https://s3-eu-west-1.amazonaws.com/fa-ads/ForzaFootball/brand/forza-logo-pack.zip)
+* [Download font (New Rail)](https://s3-eu-west-1.amazonaws.com/fa-ads/ForzaFootball/brand/new-rail-typeface.zip)
+* [Download keynote presentation](https://s3-eu-west-1.amazonaws.com/fa-ads/ForzaFootball/brand/forza-presentation-template.zip)
 
 ## Forza Football values/manifesto
 
